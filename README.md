@@ -47,6 +47,7 @@ python stegonew.py
 3. Click **"Decode Message"** to retrieve the hidden text.
 
 ## Screenshots
+**Application Interface**
 ![Application Interface](Result/Screenshot-9.png) 
 ![Opening](Result/Screenshot-6.png)
 ![Encoding](Result/Screenshot-7.png)
