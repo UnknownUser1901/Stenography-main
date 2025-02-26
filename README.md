@@ -48,7 +48,7 @@ python stegonew.py
 
 ## Screenshots
 ![Application Interface](Screenshot-9.png) 
-![Opening](Screenshot-6.png)  
+![Opening](Result/Screenshot-6.png)
 ![Encoding](Screenshot-7.png)
 ![Decoding](Screenshot-8.png)  
 
